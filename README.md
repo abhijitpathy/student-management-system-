@@ -1,2 +1,8 @@
 # student-management-system-
-Its a system for managing students
+
+## Features
+
+- Student Rgistration
+- Student Login
+- student profile
+- student dashboard 
